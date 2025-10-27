@@ -37,7 +37,7 @@ La **programación estructurada** organiza el código en **bloques lógicos y or
 
 ```csharp
 int edad = 23;
-string nombre = "Juan";
+string nombre = "Diego";
 double altura = 1.80;
 bool estudiante = true;
 
@@ -185,8 +185,56 @@ do
 ```
 
 ---
+## 🧮 Módulo 7: Arrays y Arrays Bidimensionales
 
-## 🔹 Módulo 8: Funciones / Modularidad
+### 🔹 ¿Qué es un array?
+Un **array** almacena varios valores del mismo tipo en una sola variable.
+
+```csharp
+int[] numeros = { 10, 20, 30, 40, 50 };
+Console.WriteLine(numeros[0]); // 10
+Console.WriteLine(numeros[4]); // 50
+```
+
+### 🔹 Recorrer un array con for
+```csharp
+int[] edades = { 18, 20, 25, 30 };
+for (int i = 0; i < edades.Length; i++)
+{
+    Console.WriteLine($"Edad {i}: {edades[i]}");
+}
+```
+
+### 🔹 Arrays por teclado
+```csharp
+string[] nombres = new string[3];
+for (int i = 0; i < nombres.Length; i++)
+{
+    Console.Write($"Introduce el nombre {i + 1}: ");
+    nombres[i] = Console.ReadLine();
+}
+```
+
+### 🔹 Arrays Bidimensionales (matrices)
+```csharp
+int[,] matriz = {
+    {1, 2, 3},
+    {4, 5, 6},
+    {7, 8, 9}
+};
+
+for (int fila = 0; fila < matriz.GetLength(0); fila++)
+{
+    for (int col = 0; col < matriz.GetLength(1); col++)
+    {
+        Console.Write(matriz[fila, col] + " ");
+    }
+    Console.WriteLine();
+}
+```
+---
+
+## 🔹 Módulo 9: Funciones / Modularidad
 
 ```csharp
 static int Sumar(int a, int b)
@@ -206,7 +254,7 @@ static void Main()
 
 ---
 
-## 🧱 Módulo 9: Buenas prácticas
+## 🧱 Módulo 10: Buenas prácticas
 - Nombres descriptivos: `edadAlumno`, `calcularPromedio()`
 - Comentar el código: `// Esto calcula...`
 - Mantener tabulación consistente
@@ -214,7 +262,7 @@ static void Main()
 
 ---
 
-## 🏋️ Módulo 10: Ejercicios prácticos finales
+## 🏋️ Módulo 11: Ejercicios prácticos finales
 
 ### Ejercicio 1: Ficha personal
 - Pedir nombre, edad y mostrar un saludo y edad en meses.
@@ -237,7 +285,10 @@ static void Main()
 ### Ejercicio 7: Función suma
 - Crear una función que reciba dos números y devuelva la suma, luego mostrar el resultado.
 
-### Ejercicio 8: Contador en bucles
+### Ejercicio 8: Promedio 3 estudiantes
+Calcular el promedio de 3 estudiantes con 2 notas cada uno:
+
+### Ejercicio 9: Contador en bucles
 - Crear un bucle que cuente cuántas veces un número introducido por el usuario es mayor que cero hasta que ingrese cero.
 
 ---
