@@ -1,0 +1,15 @@
+C:\Users\desn2\Desktop\C#\Programacion Estructurada\estruturada\bin\Debug\net9.0\estruturada.exe
+C:\Users\desn2\Desktop\C#\Programacion Estructurada\estruturada\bin\Debug\net9.0\estruturada.deps.json
+C:\Users\desn2\Desktop\C#\Programacion Estructurada\estruturada\bin\Debug\net9.0\estruturada.runtimeconfig.json
+C:\Users\desn2\Desktop\C#\Programacion Estructurada\estruturada\bin\Debug\net9.0\estruturada.dll
+C:\Users\desn2\Desktop\C#\Programacion Estructurada\estruturada\bin\Debug\net9.0\estruturada.pdb
+C:\Users\desn2\Desktop\C#\Programacion Estructurada\estruturada\obj\Debug\net9.0\estruturada.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\desn2\Desktop\C#\Programacion Estructurada\estruturada\obj\Debug\net9.0\estruturada.AssemblyInfoInputs.cache
+C:\Users\desn2\Desktop\C#\Programacion Estructurada\estruturada\obj\Debug\net9.0\estruturada.AssemblyInfo.cs
+C:\Users\desn2\Desktop\C#\Programacion Estructurada\estruturada\obj\Debug\net9.0\estruturada.csproj.CoreCompileInputs.cache
+C:\Users\desn2\Desktop\C#\Programacion Estructurada\estruturada\obj\Debug\net9.0\estruturada.dll
+C:\Users\desn2\Desktop\C#\Programacion Estructurada\estruturada\obj\Debug\net9.0\refint\estruturada.dll
+C:\Users\desn2\Desktop\C#\Programacion Estructurada\estruturada\obj\Debug\net9.0\estruturada.pdb
+C:\Users\desn2\Desktop\C#\Programacion Estructurada\estruturada\obj\Debug\net9.0\estruturada.genruntimeconfig.cache
+C:\Users\desn2\Desktop\C#\Programacion Estructurada\estruturada\obj\Debug\net9.0\ref\estruturada.dll
+C:\Users\desn2\Desktop\C#\Programacion Estructurada\estruturada\obj\Debug\net9.0\estruturada.sourcelink.json
