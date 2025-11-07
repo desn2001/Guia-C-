@@ -104,7 +104,7 @@ El `default` debe manejar colores incorrectos.
 Luego modifica el ejercicio: - Si el color es **ámbar**: - Si la edad es
 menor de 20 → debe parar\
 - Si es mayor o igual → puede pasar
-![Semaforo](semaforo.PNG)
+![Semaforo](imagen/semaforo.PNG)
 ------------------------------------------------------------------------
 
 ## Ejercicio 6 --- Validación de fecha
@@ -139,6 +139,6 @@ Los datos se piden en varias líneas: 1. Nombre\
 
 Usa `nombre.indexOf(' ')` para detectar si el nombre es compuesto.
 
-![imagen1](IncialNombre1.PNG)
-![imagen1](IncialNombre2.PNG)
+![imagen1](imagen/IncialNombre1.PNG)
+![imagen1](imagen/IncialNombre2.PNG)
 
