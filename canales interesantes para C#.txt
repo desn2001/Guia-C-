@@ -1,0 +1,25 @@
+Canales en español que explican C# con claridad:
+
+Código Facilito – Cursos paso a paso, muy buenos para principiantes.
+
+Píldoras Informáticas – Explicaciones claras y prácticas, ideales para empezar.
+
+Programación .NET (José Manuel Alarcón / campusMVP) – Explicaciones más avanzadas pero excelentes.
+
+Develoteca – Tutoriales directos y enfocados en proyectos.
+
+FalconMasters – No es específico de C#, pero explica muy bien conceptos de programación.
+
+HolaMundo (Mikel Butrón) – Tiene una serie de C# para principiantes muy clara.
+
+Cursos gratuitos y completos:
+
+Microsoft Learn – C# para principantes (oficial, en español). Muy recomendado para aprender buenas prácticas.
+
+FreeCodeCamp Español – Curso completo de C# (YouTube), más de 8 horas, muy bien explicado.
+
+Libros recomendados:
+
+C# 10 y .NET 6 – Guía definitiva (Mark J. Price). Explica desde lo básico hasta lo avanzado.
+
+Head First C# (aunque está en inglés, es muy didáctico).
